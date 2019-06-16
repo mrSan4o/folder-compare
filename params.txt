@@ -1,0 +1,5 @@
+source=F:\data
+scan=D:\ФОТО
+copyNew=D:\test\на продажу\new
+mode=COPY
+extensions=jpg,jpeg,bmp,png
