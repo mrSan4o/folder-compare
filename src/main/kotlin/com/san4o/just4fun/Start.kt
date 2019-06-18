@@ -13,6 +13,7 @@ fun main(args: Array<String>) {
     val params = buildParams()
 
     val manager = CompareManager(
+            extensions = params.targetExtensions.split(",").toTypedArray(),
             copyNewFilesFolderPath = params.copyNewFilesFolder,
             compareMode = params.compareMode
     )
