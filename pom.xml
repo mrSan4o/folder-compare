@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <kotlin.version>1.3.31</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <main.class>com.san4o.just4fun.StartKt</main.class>
     </properties>
 
